@@ -1,7 +1,7 @@
 # DSA 210 Project Proposal - İpek Gezer
 My repository for DSA210 Project
 
-# Correlation Between Democracy Level And Gender Represntaiton in Media
+# Correlation Between Democracy Level And Gender Representation in Media
 
 ## Dataset
 Diplomatic News and Image Data: Includes news articles about international diplomacy and their related photographs. Each entry contains details like country, year, and news context, along with the number of women and men shown in the images. This information helps calculate gender representation ratios.
