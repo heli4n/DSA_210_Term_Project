@@ -1,0 +1,5 @@
+x,y,n,spearman_rho,p_value
+v2x_polyarchy,female_ratio_totals,212,0.4336629808277914,3.931295548233132e-11
+v2x_gender,female_ratio_totals,212,0.41143273180507334,4.564480804260857e-10
+v2x_polyarchy,female_ratio_meanimg,212,0.40577620577027856,8.282111541469126e-10
+v2x_gender,female_ratio_meanimg,212,0.355878935921325,1.0015144825624097e-07
