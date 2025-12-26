@@ -1,14 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
-
 import os
 import json
 import pandas as pd
 
-# input folder (your dataset root)
+# input folder
 path = "/Users/ipekgezer/dataverse_files"
 
 # output folder inside repo
