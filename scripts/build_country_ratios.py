@@ -2,7 +2,7 @@ import os
 import json
 import pandas as pd
 
-# input folder
+
 path = "/Users/ipekgezer/dataverse_files"
 
 # output folder inside repo
