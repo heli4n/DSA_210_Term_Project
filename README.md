@@ -17,7 +17,8 @@ Democracy is usually connected with fairness and equal participation in politica
 Is there a positive relationship between the level of democracy in a country and the visual representation of women in diplomacy-related media?
 ## Hyphothesis
 H0: There is no relationship between democracy levels and the visual representation of women in diplomacy.
+
 H1: Countries with higher levels of democracy tend to have a greater visual representation of women in diplomacy.
 
-
-
+## Academic Integrity
+https://chatgpt.com/share/69610651-d2cc-8002-b02d-e9e7a6e5a0b7
